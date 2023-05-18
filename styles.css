@@ -1,0 +1,55 @@
+
+.first{
+    padding:  30px 20px;
+background-image: url(https://www.thecatholicnetwork.co.uk/wp-content/uploads/2022/10/mother-teresa-black-background-cropped.jpg);
+    background-repeat: no-repeat;
+background-size:100% 100%;
+height: 350px;
+    line-height: 0.5;
+    border-bottom: 10px solid black;
+    position: relative;
+}
+.heading{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 800;
+  text-align: right;
+  font-size:60px;
+  color:white;
+  padding-top: 100px;
+}
+.quote{
+    font-family:'Courier New', Courier, monospace;
+  text-align:right;
+  font-weight: 400;
+ font-size: 20px;
+ color: aliceblue;
+ margin-right: 100px;
+}
+.list{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.details{
+  font-size: 20px;
+  text-align: right;
+
+
+}
+.words{
+  height:100px;
+  background-color: rgb(5, 5, 100);
+  color: aliceblue;
+  text-align: center;
+  text-transform: uppercase;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 100;
+font-size: 20px;
+line-height: 1px;
+padding-top: 40px;
+
+}
+.saidby{
+  text-align: center;
+}
+  
