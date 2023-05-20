@@ -52,10 +52,11 @@ padding-top: 40px;
 .saidby{
   text-align: center;
 }
-  .said{
-  font-size: 15px;
+.said{
+  font-size: 20px;
+  line-height: 2px;
 display: inline;
-word-break: break-all;
+word-break: break-word;
 
 }
 @media only screen and (max-width:900px)and (min-width:650px){
