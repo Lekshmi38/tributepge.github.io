@@ -58,3 +58,50 @@ display: inline;
 word-break: break-all;
 
 }
+@media only screen and (max-width:900px)and (min-width:650px){
+  
+  .heading{
+    font-size:30px;
+    padding-left:40px;
+
+  }
+.quote{
+  font-size:20px;
+    line-height: 1px;
+   display:inline;
+  
+}
+.said{
+  font-size: 10px;
+  line-height: 1px;
+  display: inline;
+  word-break: break-word;
+}
+}
+@media only screen and (max-width:650px)and (min-width:350px){
+  .heading{
+    font-size:20px;
+    padding-left:50px;
+
+  }
+  .quote{
+    font-size:10px;
+    line-height: 1px;
+   display:inline;
+    word-break: break-word;
+  }
+}
+  @media only screen and (max-width:350px)and (min-width:10px){
+    .heading{
+      font-size:13px;
+      padding-left:60px;
+  
+    }
+    .quote{
+      font-size:8px;
+      line-height: 1px;
+     display:inline;
+      word-break: break-word;
+    }
+  
+}
