@@ -52,4 +52,9 @@ padding-top: 40px;
 .saidby{
   text-align: center;
 }
-  
+  .said{
+  font-size: 15px;
+display: inline;
+word-break: break-all;
+
+}
