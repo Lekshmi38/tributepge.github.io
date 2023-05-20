@@ -51,11 +51,6 @@ line-height: 1px;
 padding-top: 40px;
 
 }
-.saidby{
-  text-align: center;
-     position: relative;
-  font-size: 20px;
-}
 .said{
   font-size: 20px;
   line-height: 2px;
@@ -63,6 +58,12 @@ display: inline;
 word-break: break-word;
 
 }
+.saidby{
+  text-align: center;
+     position: relative;
+  font-size: 20px;
+}
+
 @media only screen and (max-width:900px)and (min-width:650px){
   
   .heading{
@@ -78,7 +79,7 @@ word-break: break-word;
 }
 .said{
   font-size: 10px;
-  line-height: 1px;
+  line-height: 2px;
   display: inline;
   word-break: break-word;
 }
@@ -111,13 +112,13 @@ word-break: break-word;
     }
     .quote{
       font-size:8px;
-      line-height: 1px;
+      line-height: 2px;
      display:inline;
       word-break: break-word;
     }
       .said{
   font-size: 10px;
-  line-height: 1px;
+  line-height: 2px;
   display: inline;
   word-break: break-word;
 }
