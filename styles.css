@@ -90,6 +90,13 @@ word-break: break-all;
    display:inline;
     word-break: break-word;
   }
+    .said{
+  font-size: 10px;
+  line-height: 1px;
+  display: inline;
+  word-break: break-word;
+}
+
 }
   @media only screen and (max-width:350px)and (min-width:10px){
     .heading{
@@ -103,5 +110,12 @@ word-break: break-all;
      display:inline;
       word-break: break-word;
     }
+      .said{
+  font-size: 10px;
+  line-height: 1px;
+  display: inline;
+  word-break: break-word;
+}
+
   
 }
