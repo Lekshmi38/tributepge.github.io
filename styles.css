@@ -24,6 +24,7 @@ height: 350px;
  font-size: 20px;
  color: aliceblue;
  margin-right: 100px;
+    padding-left: 200px;
 }
 .list{
  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -101,7 +102,7 @@ word-break: break-word;
 }
 
 }
-  @media only screen and (max-width:350px)and (min-width:10px){
+  @media only screen and (max-width:350px)and (min-width:100px){
     .heading{
       font-size:13px;
       padding-left:60px;
