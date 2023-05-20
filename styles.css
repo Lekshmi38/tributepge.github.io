@@ -51,6 +51,8 @@ padding-top: 40px;
 }
 .saidby{
   text-align: center;
+     position: relative;
+  font-size: 20px;
 }
 .said{
   font-size: 20px;
