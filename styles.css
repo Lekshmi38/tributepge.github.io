@@ -39,6 +39,7 @@ height: 350px;
 }
 .words{
   height:100px;
+    max-height:900px;
   background-color: rgb(5, 5, 100);
   color: aliceblue;
   text-align: center;
